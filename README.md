@@ -62,10 +62,10 @@ All tests performed were under supervision and done for learning purposes only.
 
 4. WAFW00F
 ![WAFW00F](./wafw00f.png)
-
+<br>
 5. Subfinder
 ![Subfinder](./subfinder.png)
-
+<br>
 6. Curl
 ![Curl](./curl.png)
 
