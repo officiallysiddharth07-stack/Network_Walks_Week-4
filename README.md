@@ -14,12 +14,11 @@
 
 ## 1. Introduction
 
-A black-box security assessment was performed on `medirozahospital.com` as part of the Week 4 capstone project.
+VAPT was performed on `medirozahospital.com` as part of the Week 4 capstone project.
+During which I found a total of **9 findings** in which **3 CRITICAL** issues related to exposed sensitive directories, exposed database backup, and SQL Injection were thoroughly observed.
 
-A total of **9 findings** were identified, including **3 CRITICAL** issues related to exposed sensitive directories, exposed database backup, and SQL Injection.
+It was also found that the website uses a custom CMS `Mediroza CMS 1.4.2` on a `LiteSpeed` server. 
 
-The website uses a custom CMS `Mediroza CMS 1.4.2` on a `LiteSpeed` server. 
-
-The most severe impact was achieved during **M3 - Sensitive Data Exposure**, where an old database backup file was publicly downloaded from the `/old/` directory, exposing confidential staff salaries and shareholder records.
+P1 level impact was achieved during **M3 - Sensitive Data Exposure**. Here, an old database backup file was publicly downloaded from the `/old/` directory, exposing confidential staff salaries and shareholder records.
 
 ---
