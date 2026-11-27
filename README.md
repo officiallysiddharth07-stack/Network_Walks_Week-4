@@ -1,4 +1,4 @@
-# Security Assessment Report - Mediroza General Hospital
+# Penetration Testing Report - Mediroza General Hospital
 
 **Target:** https://medirozahospital.com
 
