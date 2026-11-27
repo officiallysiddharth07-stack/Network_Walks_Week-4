@@ -8,9 +8,6 @@
 
 **Batch:** B084 - NETWORKWALKS Cybersecurity Internship
 
-**Scope:** Black-box Assessment - Simulated Target
-
-**Status:** Findings Only - No Fixes Applied
 
 ## 1. Security Assessment
 
