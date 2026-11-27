@@ -32,7 +32,7 @@ P1 level impact was achieved during **M3 - Sensitive Data Exposure**. Here, an o
 - `wafw00f` - WAF Detection
 - `whatweb` - Technology Fingerprinting
 - `subfinder` - Subdomain finding
-- `Zenmap / Nmap` - Network Scanning
+- `Zenmap / Nmap` - Network Scanning (Several ports open at 199.188.201.16)
 
 **M1 - Authentication Bypass:**
 - SQL Injection Testing - Patient Portal Login
@@ -49,3 +49,19 @@ P1 level impact was achieved during **M3 - Sensitive Data Exposure**. Here, an o
 All tests performed were under supervision and done for learning purposes only.
 
 ---
+## 3. Evidences
+
+
+## 4. Privacy Violation and Major Threat
+**PDF Cracking Analysis:**
+All 3 PDFs were password-protected. Hashes were extracted and cracked successfully, proving weak passwords were used for sensitive medical reports.
+
+- PDF 1 - Password cracked: `123456`
+- PDF 2 - Password cracked: `password`
+- PDF 3 - Password cracked: Symbols-based weak password
+
+After cracking, decrypted patient content was exposed, confirming patient privacy violation.
+
+**Risk:** Patient reports are publicly downloadable. Exposure of medical reports violates patient privacy.
+
+**Recommendation:** Remove public access to patient reports. Protect PDFs with strong passwords and proper access control.
