@@ -58,7 +58,7 @@ All 3 PDFs were password-protected. Hashes were extracted and cracked successful
 
 - PDF 1 - Password cracked: `123456`
 - PDF 2 - Password cracked: `password`
-- PDF 3 - Password cracked: Symbols-based weak password
+- PDF 3 - Password cracked: `!@#$%^&`
 
 After cracking, decrypted patient content was exposed, confirming patient privacy violation.
 
