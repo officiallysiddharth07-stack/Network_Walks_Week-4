@@ -15,6 +15,7 @@
 ## 1. Introduction
 
 VAPT was performed on `medirozahospital.com` as part of the Week 4 capstone project.
+
 During which I found a total of **9 findings** in which **3 CRITICAL** issues related to exposed sensitive directories, exposed database backup, and SQL Injection were thoroughly observed.
 
 It was also found that the website uses a custom CMS `Mediroza CMS 1.4.2` on a `LiteSpeed` server. 
