@@ -51,6 +51,56 @@ All tests performed were under supervision and done for learning purposes only.
 ---
 ## 3. Evidences
 
+1. WHOIS
+![WHOIS](./whois.png)
+
+2. WHOIS 2
+![WHOIS 2](./whois2.png)
+
+3. WhatWeb
+![WhatWeb](./whatweb.png)
+
+4. WAFW00F
+![WAFW00F](./wafw00f.png)
+
+5. Subfinder
+![Subfinder](./subfinder.png)
+
+6. Curl
+![Curl](./curl.png)
+
+7. Mediroza Old
+![Mediroza Old](./mediroza-old.png)
+
+8. Mediroza Staff
+![Mediroza Staff](./mediroza-staff.png)
+
+9. Database
+![Database](./database.png)
+
+10. SQL Injection 1
+![SQL Injection 1](./sqli-1.png)
+
+11. SQL Injection 2
+![SQL Injection 2](./sqli-2.png)
+
+12. PDF 1
+![PDF 1](./pdf1.png)
+
+13. PDF 2
+![PDF 2](./pdf2.png)
+
+14. Nmap 1
+![Nmap 1](./nmap1.png)
+
+15. Nmap 2
+![Nmap 2](./nmap2.png)
+
+16. Nmap 3
+![Nmap 3](./nmap3.png)
+
+17. Nmap 4
+![Nmap 4](./nmap4.png)
 
 ## 4. Privacy Violation and Major Threat
 **PDF Cracking Analysis:**
