@@ -114,6 +114,6 @@ After cracking, decrypted patient content was exposed, confirming patient privac
 **Recommendation:** Remove public access to patient reports. Protect PDFs with strong passwords and proper access control.
 
 ## 5. Conclusion Remarks
-This final assessment marks the ending of my one month online internship at Network Walks Pvt. Ltd.<br>
+This final assessment marks the ending of my one month online internship at Network Walks Pvt. Ltd.<br><br>
 The main priority is to fix Directory Indexing, Database Backup Exposure , and SQL Injection immediately, as they expose hospital internal directories, allow login bypass, and expose a full confidential database backup.<br><br>
 With that asserted, I've learned quite great techniques of VAPT from this internship.
